@@ -14,7 +14,7 @@ The dataset used to analyze the algorithm's performance consists of 24 pairs of 
 
 First, an image is captured without markers. Then markers are placed on the unskirted wool and another image is captured. The wool is skirted with the markers on and a third image is captured. Finally, the markers are removed before the last image is captured.
 
-To access the dataset used for this experiment, click [HERE](https://github.com/daniel-perezb/skirting_line_estimation/tree/main/dataset).
+To access the dataset used for this experiment, click [HERE](https://github.com/daniel-perezb/skirting_line/tree/main/dataset).
 
 ![Before Skirt Image](dataset/fleece00/00_00.png)
 
